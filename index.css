@@ -2,11 +2,16 @@
 *body
 {
     margin: 0;
+    background-color: rgb(255,128,0);
+    font-family:'Inter', sans-serif;
 }
 
-h1
-{
-    position: relative;
-    right: 100px;
-    
+
+h2{
+    padding: 0.5%;
+}
+
+
+p{
+    padding: 0.5%;
 }
