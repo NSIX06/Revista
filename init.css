@@ -1,11 +1,11 @@
-
-*body{
-
+body
+{
+    background: white;
+    font-family: 'Inder';
     margin: 0;
-    font-family:'Inter', sans-serif;
+    padding: 0;
+    
 }
-
-
 
 header{
 
@@ -35,51 +35,18 @@ nav a
 
 
 
-
-h1{
-    padding: 0.5%;
-    position: relative;
-    top: 10px;
-    left: 10px;
-}
-
-
-h4{
-    padding: 1%;
-}
-
-#uu{
+#ii{
 
     display: flex;
-    justify-content: space-around;
-    flex-direction: column;
-    padding: 1%;
-}
+    justify-content: center;
 
-
-#fe{
-    display: flex;
-    justify-content: space-around;
-    flex-direction: column;
-    padding: 1%;
 }
 
 
 
-#link{
 
-    text-align: center;
-    padding: 2%;
-}
 
-img{
 
-    position: relative;
-    right: -350px;
-    margin: 0;
-    width:  50%;
-    
-}
 
 
 footer{
