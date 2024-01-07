@@ -9,15 +9,6 @@ body
     font-family:'Inter', sans-serif;
 }
 
-header{
-
-    background: linear-gradient(90deg, rgba(255,128,0,1) 0%, rgba(182,33,222,1) 35%, rgba(4,0,140,1) 56%, rgba(0,22,255,1) 100%);
-    align-items: center;
-    justify-content: space-between;
-    height: 70px;
-    width: 100%;
-}
-
 
 .logo{
     position: relative;
@@ -55,10 +46,18 @@ p{
     padding: 0.5%;
 }
 
+img{
+
+    position: relative;
+    right: -500px;
+    width: 500px;
+    height: 400px;
+}
+
 button a {
 
     position: relative;
-    top: -07px;
+    top: -01px;
     font-size: 15px;
     color: white;
     text-decoration: none;
@@ -67,30 +66,13 @@ button a {
 button {
 
     background: linear-gradient(90deg, rgba(255,128,0,1) 0%, rgba(182,33,222,1) 35%, rgba(4,0,140,1) 56%, rgba(0,22,255,1) 100%);
-    font-size: 40px;
+    font-size: 17px;
     border: none;
     border-radius: 05px;
     position: relative;
-    left: 700px;
+    right: -656px;
+    top: -10px;
     width: 100px;
     height: 50%;
 }
 
-
-footer{
-
-    position: relative;
-    top: 500px;
-    text-align: center;
-    background: linear-gradient(90deg, rgba(255,128,0,1) 0%, rgba(182,33,222,1) 35%, rgba(4,0,140,1) 56%, rgba(0,22,255,1) 100%);
-    color: white;
-    font-size: 12px;
-    height: 50px;
-    width: 100%;
-}
-
-footer p {
-
-    position: relative;
-    top: 15px;
-}

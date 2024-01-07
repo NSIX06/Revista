@@ -99,6 +99,19 @@ h5{
 
 button a{
 
-    
+    text-decoration: none;
+    color: white;
 }
 
+button{
+
+    background: linear-gradient(90deg, rgba(255,128,0,1) 0%, rgba(182,33,222,1) 35%, rgba(4,0,140,1) 56%, rgba(0,22,255,1) 100%);
+    font-size: 17px;
+    border: none;
+    border-radius: 05px;
+    position: relative;
+    width: 100px;
+    height: 50%;
+    top: 20px;
+    right: -80px;
+}
