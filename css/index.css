@@ -11,7 +11,7 @@ body
     position: relative;
     width: 20vw;
     height: 20vh;
-    background-image: url('pro.png');
+    background-image: url('/img/pro.png');
     background-size: 50%;
     background-position-y: 65px;
     background-position-x: right;

@@ -19,6 +19,19 @@ body
     height: 60px;
 }
 
+.ip{
+
+    display: flex;
+    justify-content: center ;
+    position: relative;
+    right: -650px;
+    top: 10px;
+    padding: 1%;
+    margin: 0;
+    background:  linear-gradient(90deg, rgba(255,128,0,1) 0%, rgba(182,33,222,1) 35%, rgba(4,0,140,1) 56%, rgba(0,22,255,1) 100%);
+    width: 135px;
+    height: 80px;
+}
 
 
 #ii{
@@ -70,7 +83,7 @@ button {
     border: none;
     border-radius: 05px;
     position: relative;
-    right: -656px;
+    right: -640px;
     top: -10px;
     width: 100px;
     height: 50%;
